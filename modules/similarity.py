@@ -157,7 +157,7 @@ def render():
                             height=160,
                         )
                         if img_url:
-                            st.image(img_url, use_column_width=True)
+            st.image(img_url, use_container_width=True)
                         st.markdown(
                             f"**{row['VOC']}**  \n"
                             f'<span style="color:#1a3a2a;font-weight:700">'
