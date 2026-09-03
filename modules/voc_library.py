@@ -90,7 +90,7 @@ def render():
                             width=320, height=180,
                         )
                         if img_url:
-                            st.image(img_url, use_container_width=True)
+                            st.image(img_url, width=320)
                         else:
                             st.markdown(
                                 '<div style="height:100px;background:#f0fdf4;'

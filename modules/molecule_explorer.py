@@ -37,7 +37,7 @@ def render():
             st.image(
                 img_url,
                 caption=f"{voc['name']} — PubChem CID {voc['pubchem_cid']}",
-                use_container_width=True,
+                width=360,
             )
         else:
             st.info("Structure image unavailable")
