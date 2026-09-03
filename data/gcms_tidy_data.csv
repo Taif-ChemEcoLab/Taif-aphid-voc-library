@@ -1,0 +1,768 @@
+sheet,aphid_species,host_plant,wounded,sample_weight_mg,compound_name,retention_time,peak_area,compound_name_clean,is_identified
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,2-methyl-4-heptanone,10.152,1690217663.2,2-methyl-4-heptanone,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,4-carene,10.482,6967168954.24,4-carene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,benzaldehyde,11.94,1443893028.1599998,benzaldehyde,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,12.435,1635098178.56,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,6-methyl-hepta-2-none,13.04,1020610647.3199999,6-methyl-hepta-2-none,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,13.095,1682371280.48,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,O-cymene,14.773,1096087109.92,o-cymene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,D-lemonene,14.993,1149449130.28,d-lemonene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,"4,5-dimethyl nonane",18.652,2350138903.2,"4,5-dimethyl nonane",True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,18.982,734795463.16,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,20.77,614991124.4399999,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,azulene,22.641,2164098311.7599998,azulene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,23.714,607722595.92,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,26.877,1882139035.04,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,28.555,817696851.4,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,33.177,666560242.48,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,caryophyllene,33.727,2697888452.16,caryophyllene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,34.525,1124996399.12,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,humulene,35.267,1326529009.52,humulene,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,beta farnesen,35.46,1871432464.0,beta farnesen,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,36.78,958949839.3199999,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,aciphyllene/longifolene  C15H24,37.11,697787234.76,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,37.441,953857952.52,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,37.578,627580194.56,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,unknown,41.952,560372469.8,unknown,False
+except gossypii,Aphis Carcivora,Crasivora,True,129-5mg,hexatriacontane,46.271,547181816.5,hexatriacontane,True
+except gossypii,Aphis Carcivora,,True,113-3mg,2-methyl-4-heptanone,10.069,5327448939.84,2-methyl-4-heptanone,True
+except gossypii,Aphis Carcivora,,True,113-3mg,4-carene,10.427,9575844382.08,4-carene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,benzaldehyde,11.857,1851620194.56,benzaldehyde,True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,12.38,2654056843.2000003,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,6-methyl-hepta-2-none,12.985,4970111601.6,6-methyl-hepta-2-none,True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,13.095,3331572610.08,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,O-cymene,14.718,1629506542.08,o-cymene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,D-lemonene,14.911,2544816997.92,d-lemonene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,"4,5-dimethyl nonane",18.597,1942478071.68,"4,5-dimethyl nonane",True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,18.899,841145263.5600001,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,20.715,588172927.8000001,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,azulene,22.586,5233694072.64,azulene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,23.631,629626035.72,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,26.822,948446662.5600001,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,28.5,840425625.36,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,33.122,714185049.84,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,caryophyllene,33.699,4844131485.12,caryophyllene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,34.469,1823843004.0,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,humulene,35.267,3970699103.52,humulene,True
+except gossypii,Aphis Carcivora,,True,113-3mg,beta farnesen,35.432,2464667025.6,beta farnesen,True
+except gossypii,Aphis Carcivora,,True,113-3mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,36.753,1982131077.8400002,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Carcivora,,True,113-3mg,aciphyllene/longifolene  C15H24,37.083,1500975588.96,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,37.413,1672706777.04,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,37.55,742925328.6,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,unknown,41.952,843541720.44,unknown,False
+except gossypii,Aphis Carcivora,,True,113-3mg,hexatriacontane,46.326,1186642427.28,hexatriacontane,True
+except gossypii,Aphis Carcivora,,True,,2-methyl-4-heptanone,10.042,2767339659.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Carcivora,,True,,4-carene,10.399,3114585778.0,4-carene,True
+except gossypii,Aphis Carcivora,,True,,benzaldehyde,11.857,1627270005.0,benzaldehyde,True
+except gossypii,Aphis Carcivora,,True,,unknown,12.38,1377689652.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,6-methyl-hepta-2-none,13.012,2311145752.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Carcivora,,True,,unknown,13.095,1673565670.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,O-cymene,14.718,1118302448.0,o-cymene,True
+except gossypii,Aphis Carcivora,,True,,D-lemonene,14.911,4696227206.0,d-lemonene,True
+except gossypii,Aphis Carcivora,,True,,"4,5-dimethyl nonane",18.597,3699717450.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Carcivora,,True,,unknown,18.899,1090575824.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,20.715,887327466.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,azulene,22.586,1099277119.0,azulene,True
+except gossypii,Aphis Carcivora,,True,,unknown,23.658,979817072.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,26.877,878412949.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,28.5,1071007016.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,33.121,1061612510.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,caryophyllene,33.699,915078569.5,caryophyllene,True
+except gossypii,Aphis Carcivora,,True,,unknown,34.469,631727924.5,unknown,False
+except gossypii,Aphis Carcivora,,True,,humulene,35.267,970276814.5,humulene,True
+except gossypii,Aphis Carcivora,,True,,beta farnesen,35.432,1821715431.0,beta farnesen,True
+except gossypii,Aphis Carcivora,,True,,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,36.753,574060883.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Carcivora,,True,,aciphyllene/longifolene  C15H24,37.11,509796054.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Carcivora,,True,,unknown,37.413,585257616.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,37.55,725950558.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,41.924,1079296311.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,hexatriacontane,46.271,1354375999.0,hexatriacontane,True
+except gossypii,Aphis Carcivora,,True,,2-methyl-4-heptanone,10.124,2616376945.76,2-methyl-4-heptanone,True
+except gossypii,Aphis Carcivora,,True,,4-carene,10.454,3177675263.36,4-carene,True
+except gossypii,Aphis Carcivora,,True,,benzaldehyde,11.912,1645981043.04,benzaldehyde,True
+except gossypii,Aphis Carcivora,,True,,unknown,12.407,1382482328.72,unknown,False
+except gossypii,Aphis Carcivora,,True,,6-methyl-hepta-2-none,13.04,2319864295.2,6-methyl-hepta-2-none,True
+except gossypii,Aphis Carcivora,,True,,unknown,13.15,1638683765.76,unknown,False
+except gossypii,Aphis Carcivora,,True,,O-cymene,14.746,1135894568.16,o-cymene,True
+except gossypii,Aphis Carcivora,,True,,D-lemonene,14.938,4402082395.2,d-lemonene,True
+except gossypii,Aphis Carcivora,,True,,"4,5-dimethyl nonane",18.597,3415104611.2,"4,5-dimethyl nonane",True
+except gossypii,Aphis Carcivora,,True,,unknown,18.927,985911066.88,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,20.742,837025107.44,unknown,False
+except gossypii,Aphis Carcivora,,True,,azulene,22.613,943064292.88,azulene,True
+except gossypii,Aphis Carcivora,,True,,unknown,23.658,852444657.12,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,26.877,642746607.48,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,28.5,910631233.2,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,33.121,863175047.92,unknown,False
+except gossypii,Aphis Carcivora,,True,,caryophyllene,33.699,709549767.12,caryophyllene,True
+except gossypii,Aphis Carcivora,,True,,unknown,34.469,485231503.2,unknown,False
+except gossypii,Aphis Carcivora,,True,,humulene,35.267,798961784.5600001,humulene,True
+except gossypii,Aphis Carcivora,,True,,beta farnesen,35.432,1310489253.1200001,beta farnesen,True
+except gossypii,Aphis Carcivora,,True,,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,36.752,434618552.56,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Carcivora,,True,,aciphyllene/longifolene  C15H24,37.083,425667690.2,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Carcivora,,True,,unknown,37.413,484841855.6,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,37.55,599074259.88,unknown,False
+except gossypii,Aphis Carcivora,,True,,unknown,41.952,805541664.0,unknown,False
+except gossypii,Aphis Carcivora,,True,,hexatriacontane,46.298,734048560.4,hexatriacontane,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,2-methyl-4-heptanone,10.427,156919856.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,4-carene,18.624,77537952.0,4-carene,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,benzaldehyde,22.613,233217088.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,unknown,26.839,7368589.0,unknown,False
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,6-methyl-hepta-2-none,33.727,74369264.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,unknown,35.295,67219312.0,unknown,False
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,O-cymene,35.46,1199916288.0,o-cymene,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,D-lemonene,36.45,62907680.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,Taif rose Alhada,True,169 mg,"4,5-dimethyl nonane",37.138,247920304.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,79-3mg,2-methyl-4-heptanone,10.344,15247097.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,4-carene,18.487,225922944.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,benzaldehyde,22.638,9955975.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,unknown,26.839,7368589.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,79-3mg,6-methyl-hepta-2-none,33.581,10519814.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,unknown,35.154,9295632.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,79-3mg,O-cymene,35.321,42219700.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,D-lemonene,36.308,8673386.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,79-3mg,"4,5-dimethyl nonane",37.036,6882284.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,214 mg,2-methyl-4-heptanone,10.509,182955568.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,214 mg,4-carene,18.652,98005088.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,214 mg,benzaldehyde,22.641,121417888.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,214 mg,unknown,26.877,155594800.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,214 mg,6-methyl-hepta-2-none,33.726,77624208.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,214 mg,unknown,35.294,53665356.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,214 mg,O-cymene,36.45,55710616.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,214 mg,D-lemonene,36.45,55710616.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,214 mg,"4,5-dimethyl nonane",37.138,51245156.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,,2-methyl-4-heptanone,10.319,342449024.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,,4-carene,18.517,1190917504.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,,benzaldehyde,22.57,52114256.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,,unknown,26.876,41880992.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,,6-methyl-hepta-2-none,33.593,98720056.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,,unknown,35.16,102324288.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,,O-cymene,35.315,347371008.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,,D-lemonene,36.314,90630904.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,,"4,5-dimethyl nonane",36.999,73763528.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Poros,,True,167-4mg,2-methyl-4-heptanone,10.375,178337792.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Poros,,True,167-4mg,4-carene,18.542,242683840.0,4-carene,True
+except gossypii,Rhodobium Poros,,True,167-4mg,benzaldehyde,22.626,13067279.0,benzaldehyde,True
+except gossypii,Rhodobium Poros,,True,167-4mg,unknown,26.802,17781044.0,unknown,False
+except gossypii,Rhodobium Poros,,True,167-4mg,6-methyl-hepta-2-none,33.618,20687930.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Poros,,True,167-4mg,unknown,35.191,15528127.0,unknown,False
+except gossypii,Rhodobium Poros,,True,167-4mg,O-cymene,35.345,88274656.0,o-cymene,True
+except gossypii,Rhodobium Poros,,True,167-4mg,D-lemonene,36.345,10023274.0,d-lemonene,True
+except gossypii,Rhodobium Poros,,True,167-4mg,"4,5-dimethyl nonane",37.042,19893988.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,,2-methyl-4-heptanone,10.239,65520564.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,,4-carene,18.486,288388736.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,,benzaldehyde,22.62,7850460.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,,unknown,26.74,6613613.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,,6-methyl-hepta-2-none,33.557,13444093.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,,unknown,35.136,12320063.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,,O-cymene,35.302,82365568.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,,D-lemonene,36.283,10341667.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,,"4,5-dimethyl nonane",37.005,11239783.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,2-methyl-4-heptanone,10.097,164304179.4,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,4-carene,12.407,154628958.20000002,4-carene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,benzaldehyde,13.012,198684812.8,benzaldehyde,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,13.068,208209584.0,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,6-methyl-hepta-2-none,13.233,174798674.60000002,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,14.525,139994492.0,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,O-cymene,14.966,169859796.4,o-cymene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,D-lemonene,18.624,471111979.20000005,d-lemonene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,"4,5-dimethyl nonane",18.899,110863513.4,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,23.686,109896102.2,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,28.527,84749198.9,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,azulene,33.176,99347751.80000001,azulene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,33.726,113124853.60000001,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,35.405,290813478.0,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,35.46,575530320.8000001,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,37.138,61703380.0,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,caryophyllene,37.578,79100102.30000001,caryophyllene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,unknown,41.952,140996170.4,unknown,False
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,humulene,46.27,142530158.6,humulene,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,beta farnesen,50.479,146884240.6,beta farnesen,True
+except gossypii,Rhodobium Porosum,sultani,True,38-9mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,57.769,98464445.10000001,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,2-methyl-4-heptanone,10.042,48766908.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,4-carene,12.352,67935486.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,benzaldehyde,12.985,68743380.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,13.095,57695646.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,6-methyl-hepta-2-none,13.178,41695875.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,14.498,27230682.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,O-cymene,14.911,66026916.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,D-lemonene,18.597,193639140.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,"4,5-dimethyl nonane",18.899,32166528.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,23.631,35240568.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,28.5,21670929.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,azulene,33.121,34022427.0,azulene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,33.699,38241069.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,35.35,42079218.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,35.432,216487320.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,37.11,13787388.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,caryophyllene,37.55,22645072.5,caryophyllene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,unknown,41.924,43253526.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,31-6mg,humulene,46.271,63489348.0,humulene,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,beta farnesen,50.479,48856176.0,beta farnesen,True
+except gossypii,Rhodobium Porosum,,True,31-6mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,57.742,233550000.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,2-methyl-4-heptanone,10.069,38756844.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,4-carene,12.462,226599024.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,benzaldehyde,13.012,58604876.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,13.068,39398408.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,6-methyl-hepta-2-none,13.205,480540800.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,14.498,336838080.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,O-cymene,14.938,73791472.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,D-lemonene,18.624,178247440.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,"4,5-dimethyl nonane",18.899,76589704.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,23.658,44078164.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,28.527,35368060.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,azulene,33.149,65757932.0,azulene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,33.727,26316480.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,35.295,50062088.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,35.432,332164576.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,37.138,664137280.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,caryophyllene,37.55,43532932.0,caryophyllene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,unknown,41.952,77801840.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,100-8mg,humulene,46.27,59678196.0,humulene,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,beta farnesen,50.479,42706328.0,beta farnesen,True
+except gossypii,Rhodobium Porosum,,True,100-8mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,57.742,22287346.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,2-methyl-4-heptanone,10.042,137722336.0,2-methyl-4-heptanone,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,4-carene,12.38,40517620.0,4-carene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,benzaldehyde,12.985,263008240.0,benzaldehyde,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,13.068,39157252.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,6-methyl-hepta-2-none,13.205,38628004.0,6-methyl-hepta-2-none,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,14.498,26167958.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,O-cymene,14.938,36321848.0,o-cymene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,D-lemonene,18.597,112514280.0,d-lemonene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,"4,5-dimethyl nonane",18.899,27110206.0,"4,5-dimethyl nonane",True
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,23.658,26024862.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,28.528,20368026.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,azulene,33.149,29175922.0,azulene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,33.699,68695392.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,35.35,32191336.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,35.432,160360224.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,37.083,15338982.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,caryophyllene,37.55,24250792.0,caryophyllene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,unknown,41.952,39008944.0,unknown,False
+except gossypii,Rhodobium Porosum,,True,37-2mg,humulene,46.271,47587980.0,humulene,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,beta farnesen,50.48,44911372.0,beta farnesen,True
+except gossypii,Rhodobium Porosum,,True,37-2mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,57.742,150512720.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Nerii,Oleander,True,,2-methyl-4-heptanone,10.454,40449632.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Nerii,Oleander,True,,4-carene,11.72,72488864.0,4-carene,True
+except gossypii,Aphis Nerii,Oleander,True,,benzaldehyde,11.885,43370256.0,benzaldehyde,True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,12.105,412277984.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,6-methyl-hepta-2-none,12.49,224085840.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,13.04,44438940.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,O-cymene,13.26,445659968.0,o-cymene,True
+except gossypii,Aphis Nerii,Oleander,True,,D-lemonene,13.893,81531560.0,d-lemonene,True
+except gossypii,Aphis Nerii,Oleander,True,,"4,5-dimethyl nonane",13.975,85223656.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,14.525,330326944.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,14.773,42360212.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,azulene,14.966,49164740.0,azulene,True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,15.873,51185604.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,16.038,84951344.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,16.369,171785184.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,17.249,71459440.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,caryophyllene,17.386,57502448.0,caryophyllene,True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,17.689,67119448.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,humulene,18.624,116389736.0,humulene,True
+except gossypii,Aphis Nerii,Oleander,True,,beta farnesen,18.927,46703040.0,beta farnesen,True
+except gossypii,Aphis Nerii,Oleander,True,,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,19.257,39321416.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Nerii,Oleander,True,,aciphyllene/longifolene  C15H24,19.422,43929068.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Nerii,Oleander,True,,unknown,22.641,17588002.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,23.273,19231708.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,unknown,23.686,35670220.0,unknown,False
+except gossypii,Aphis Nerii,Oleander,True,,hexatriacontane,24.731,13965816.0,hexatriacontane,True
+except gossypii,Aphis Nerii,,True,130 mg,2-methyl-4-heptanone,10.482,138605424.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Nerii,,True,130 mg,4-carene,11.747,66864904.0,4-carene,True
+except gossypii,Aphis Nerii,,True,130 mg,benzaldehyde,11.885,131362568.0,benzaldehyde,True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,12.132,334070656.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,6-methyl-hepta-2-none,12.517,166272416.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,13.068,77610280.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,O-cymene,13.26,375916480.0,o-cymene,True
+except gossypii,Aphis Nerii,,True,130 mg,D-lemonene,13.92,80489400.0,d-lemonene,True
+except gossypii,Aphis Nerii,,True,130 mg,"4,5-dimethyl nonane",14.003,78814496.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,14.525,279433216.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,14.773,57231168.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,azulene,14.993,76410816.0,azulene,True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,15.873,47052236.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,16.038,71419856.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,16.369,141892368.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,17.276,76693616.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,caryophyllene,17.386,66734212.0,caryophyllene,True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,17.689,63808800.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,humulene,18.652,201723040.0,humulene,True
+except gossypii,Aphis Nerii,,True,130 mg,beta farnesen,18.927,112639808.0,beta farnesen,True
+except gossypii,Aphis Nerii,,True,130 mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,19.284,42661604.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Nerii,,True,130 mg,aciphyllene/longifolene  C15H24,19.45,50661548.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Nerii,,True,130 mg,unknown,22.641,77495720.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,23.246,89703992.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,unknown,23.686,51920892.0,unknown,False
+except gossypii,Aphis Nerii,,True,130 mg,hexatriacontane,24.731,286505632.0,hexatriacontane,True
+except gossypii,Aphis Nerii,,True,127-6mg,2-methyl-4-heptanone,10.454,36041928.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Nerii,,True,127-6mg,4-carene,11.72,61098440.0,4-carene,True
+except gossypii,Aphis Nerii,,True,127-6mg,benzaldehyde,11.885,46452104.0,benzaldehyde,True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,12.105,301638624.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,6-methyl-hepta-2-none,12.49,164464592.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,13.068,49123564.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,O-cymene,13.233,431683456.0,o-cymene,True
+except gossypii,Aphis Nerii,,True,127-6mg,D-lemonene,13.893,73861880.0,d-lemonene,True
+except gossypii,Aphis Nerii,,True,127-6mg,"4,5-dimethyl nonane",13.975,77015848.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,14.498,305218592.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,14.746,37944260.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,azulene,14.966,56966260.0,azulene,True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,15.873,46933624.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,16.038,72505672.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,16.369,162026944.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,17.249,77291832.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,caryophyllene,17.359,57642640.0,caryophyllene,True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,17.689,59937860.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,humulene,18.624,150520896.0,humulene,True
+except gossypii,Aphis Nerii,,True,127-6mg,beta farnesen,18.927,58362588.0,beta farnesen,True
+except gossypii,Aphis Nerii,,True,127-6mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,19.257,39828044.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Nerii,,True,127-6mg,aciphyllene/longifolene  C15H24,19.422,47480784.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,22.641,23517668.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,23.246,23574946.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,unknown,23.686,38638648.0,unknown,False
+except gossypii,Aphis Nerii,,True,127-6mg,hexatriacontane,24.814,23041024.0,hexatriacontane,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,2-methyl-4-heptanone,10.097,46350096.0,2-methyl-4-heptanone,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,4-carene,11.885,61163044.0,4-carene,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,benzaldehyde,13.068,37170708.0,benzaldehyde,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,13.233,30130754.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,6-methyl-hepta-2-none,14.966,31133238.0,6-methyl-hepta-2-none,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,18.624,157011744.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,O-cymene,23.686,31904626.0,o-cymene,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,D-lemonene,26.767,203859968.0,d-lemonene,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,"4,5-dimethyl nonane",28.527,47190736.0,"4,5-dimethyl nonane",True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,33.149,48354428.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,33.809,26548774.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,azulene,35.295,16639388.0,azulene,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,35.432,27977842.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,35.652,36679352.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,37.578,31372008.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,41.952,31533516.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,caryophyllene,44.703,15642330.0,caryophyllene,True
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,unknown,46.271,26355118.0,unknown,False
+except gossypii,Unidentified Aphid,Nashba,True,25-2mg,humulene,50.479,29689806.0,humulene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,2-methyl-4-heptanone,10.097,48864872.0,2-methyl-4-heptanone,True
+except gossypii,Unidentified Aphid,,True,23-9mg,4-carene,11.857,61447428.0,4-carene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,benzaldehyde,13.068,39657152.0,benzaldehyde,True
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,13.233,29817026.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,6-methyl-hepta-2-none,14.938,86877208.0,6-methyl-hepta-2-none,True
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,18.624,92724288.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,O-cymene,23.686,23431054.0,o-cymene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,D-lemonene,26.904,303176768.0,d-lemonene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,"4,5-dimethyl nonane",28.527,21197460.0,"4,5-dimethyl nonane",True
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,33.149,19518246.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,33.727,10834138.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,azulene,35.295,15476916.0,azulene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,35.432,52223672.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,35.68,10180335.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,37.578,17919964.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,41.952,27573130.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,caryophyllene,44.703,14029085.0,caryophyllene,True
+except gossypii,Unidentified Aphid,,True,23-9mg,unknown,46.271,37732964.0,unknown,False
+except gossypii,Unidentified Aphid,,True,23-9mg,humulene,50.479,32185432.0,humulene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,2-methyl-4-heptanone,10.042,814853031.92,2-methyl-4-heptanone,True
+except gossypii,Unidentified Aphid,,True,20-5mg,4-carene,11.83,1856767872.48,4-carene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,benzaldehyde,13.012,744191915.8,benzaldehyde,True
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,13.178,726429632.78,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,6-methyl-hepta-2-none,14.911,5543322090.56,6-methyl-hepta-2-none,True
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,18.597,2584695681.04,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,O-cymene,23.658,505596417.72,o-cymene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,D-lemonene,26.712,4769812767.68,d-lemonene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,"4,5-dimethyl nonane",28.5,505351043.4,"4,5-dimethyl nonane",True
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,33.121,581139912.68,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,33.699,421488202.29,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,azulene,35.267,342115475.51,azulene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,35.432,673920624.7,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,35.652,293660680.53000003,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,37.55,552074732.42,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,41.924,607428350.3,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,caryophyllene,44.703,10489357.0,caryophyllene,True
+except gossypii,Unidentified Aphid,,True,20-5mg,unknown,46.271,1176784320.24,unknown,False
+except gossypii,Unidentified Aphid,,True,20-5mg,humulene,50.479,689742608.64,humulene,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,2-methyl-4-heptanone,13.068,25459800.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,4-carene,13.288,28218222.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,benzaldehyde,14.03,19280928.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,unknown,14.993,42359472.0,unknown,False
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,6-methyl-hepta-2-none,18.652,92802184.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,unknown,18.982,17781758.0,unknown,False
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,O-cymene,33.671,152621216.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,Raphanus_can be red and white,True,91-4mg,D-lemonene,34.689,3105170688.0,d-lemonene,True
+except gossypii,Aphid Of White Raphanus,,True,,2-methyl-4-heptanone,13.04,47050688.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,,True,,4-carene,13.205,34964372.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,,True,,benzaldehyde,14.03,28144450.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,,True,,unknown,14.938,37206000.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,,6-methyl-hepta-2-none,18.624,105958464.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,,True,,unknown,18.927,25315416.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,,O-cymene,33.672,116523296.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,,True,,D-lemonene,34.634,2385897728.0,d-lemonene,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,2-methyl-4-heptanone,13.04,120470808.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,4-carene,13.178,35996956.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,benzaldehyde,14.03,48204524.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,unknown,14.966,32328914.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,144mg,6-methyl-hepta-2-none,18.624,75631616.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,unknown,18.927,49262780.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,144mg,O-cymene,33.672,210529408.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,,True,144mg,D-lemonene,34.717,4368678912.0,d-lemonene,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,2-methyl-4-heptanone,13.095,40968200.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,4-carene,13.178,72625704.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,benzaldehyde,14.085,33730256.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,unknown,14.993,97499680.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,6-methyl-hepta-2-none,18.652,84050312.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,unknown,18.982,19974872.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,O-cymene,33.672,142463680.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,,True,123-9mg,D-lemonene,34.689,3428662016.0,d-lemonene,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,2-methyl-4-heptanone,13.122,34898120.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,4-carene,13.205,138333440.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,benzaldehyde,14.085,31886910.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,unknown,14.993,38885920.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,6-methyl-hepta-2-none,18.652,73529080.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,unknown,18.982,21750012.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,O-cymene,33.699,179385760.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,,True,184-3mg,D-lemonene,34.689,3881775360.0,d-lemonene,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,2-methyl-4-heptanone,13.013,133897672.0,2-methyl-4-heptanone,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,4-carene,13.205,44939556.0,4-carene,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,benzaldehyde,14.003,64745088.0,benzaldehyde,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,unknown,14.938,39220828.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,64mg,6-methyl-hepta-2-none,18.624,71450840.0,6-methyl-hepta-2-none,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,unknown,18.927,36493456.0,unknown,False
+except gossypii,Aphid Of White Raphanus,,True,64mg,O-cymene,33.672,118883624.0,o-cymene,True
+except gossypii,Aphid Of White Raphanus,,True,64mg,D-lemonene,34.607,2125539584.0,d-lemonene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,2-methyl-4-heptanone,8.804,80929824.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,4-carene,9.656,49971888.0,4-carene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,benzaldehyde,10.097,131958120.0,benzaldehyde,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,10.454,106609408.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,6-methyl-hepta-2-none,11.389,49216332.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,11.72,40448988.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,O-cymene,11.912,39644200.0,o-cymene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,D-lemonene,12.105,35361128.0,d-lemonene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,"4,5-dimethyl nonane",12.435,42326960.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,13.04,94472640.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,13.26,41604376.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,azulene,13.645,39016672.0,azulene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,13.645,39016672.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,14.058,43711716.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,14.525,30065638.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,14.773,35301892.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,caryophyllene,14.966,50263676.0,caryophyllene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,16.314,30513530.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,humulene,16.809,29004538.0,humulene,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,beta farnesen,18.624,101808832.0,beta farnesen,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,18.954,29297824.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,aciphyllene/longifolene  C15H24,23.686,29227450.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,26.712,261929296.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,26.877,40479244.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,unknown,27.29,31239980.0,unknown,False
+except gossypii,Aphis Punicea,Pomegranate,False,56-3 mg,hexatriacontane,28.527,23341406.0,hexatriacontane,True
+except gossypii,Aphis Punicea,,False,59-3 mg,2-methyl-4-heptanone,8.804,96131232.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Punicea,,False,59-3 mg,4-carene,9.656,47980640.0,4-carene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,benzaldehyde,10.097,85559080.0,benzaldehyde,True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,10.454,48198960.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,6-methyl-hepta-2-none,11.389,58707988.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,11.747,51574884.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,O-cymene,11.912,47293420.0,o-cymene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,D-lemonene,12.132,37896024.0,d-lemonene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,"4,5-dimethyl nonane",12.517,34887048.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,13.068,69863352.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,13.26,53564332.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,azulene,13.645,43830724.0,azulene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,13.645,43830724.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,14.058,38385420.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,14.525,31515130.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,14.773,38955712.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,caryophyllene,14.966,62835016.0,caryophyllene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,16.341,37188800.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,humulene,16.809,44528280.0,humulene,True
+except gossypii,Aphis Punicea,,False,59-3 mg,beta farnesen,18.652,84341672.0,beta farnesen,True
+except gossypii,Aphis Punicea,,False,59-3 mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,18.954,27456426.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Punicea,,False,59-3 mg,aciphyllene/longifolene  C15H24,23.686,45860900.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,26.712,22020504.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,26.877,27979362.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,unknown,27.29,32931676.0,unknown,False
+except gossypii,Aphis Punicea,,False,59-3 mg,hexatriacontane,28.555,36853684.0,hexatriacontane,True
+except gossypii,Aphis Punicea,,False,3-mg,2-methyl-4-heptanone,8.776,63037036.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Punicea,,False,3-mg,4-carene,9.629,56526104.0,4-carene,True
+except gossypii,Aphis Punicea,,False,3-mg,benzaldehyde,10.097,151105744.0,benzaldehyde,True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,10.454,59707008.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,6-methyl-hepta-2-none,11.362,37243864.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,11.72,39829540.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,O-cymene,11.885,64919604.0,o-cymene,True
+except gossypii,Aphis Punicea,,False,3-mg,D-lemonene,12.132,46532140.0,d-lemonene,True
+except gossypii,Aphis Punicea,,False,3-mg,"4,5-dimethyl nonane",12.407,36404352.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,13.013,164428448.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,13.233,46072284.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,azulene,13.645,37098396.0,azulene,True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,13.645,37098396.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,14.03,104197584.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,14.553,34555072.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,14.746,31191570.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,caryophyllene,14.966,44298096.0,caryophyllene,True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,16.314,30625910.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,humulene,16.781,28386040.0,humulene,True
+except gossypii,Aphis Punicea,,False,3-mg,beta farnesen,18.624,88686672.0,beta farnesen,True
+except gossypii,Aphis Punicea,,False,3-mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,18.927,58741968.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Punicea,,False,3-mg,aciphyllene/longifolene  C15H24,23.686,26091322.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Punicea,,False,3-mg,unknown,26.712,14406986.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,26.849,26042048.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,unknown,27.29,22898544.0,unknown,False
+except gossypii,Aphis Punicea,,False,3-mg,hexatriacontane,28.527,22873464.0,hexatriacontane,True
+except gossypii,Aphis Punicea,,False,65-9 mg,2-methyl-4-heptanone,8.721,64016508.0,2-methyl-4-heptanone,True
+except gossypii,Aphis Punicea,,False,65-9 mg,4-carene,9.574,54118720.0,4-carene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,benzaldehyde,10.014,1165549440.0,benzaldehyde,True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,10.372,83422864.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,6-methyl-hepta-2-none,11.307,37499392.0,6-methyl-hepta-2-none,True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,11.665,39510208.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,O-cymene,11.83,67123504.0,o-cymene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,D-lemonene,12.187,39677132.0,d-lemonene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,"4,5-dimethyl nonane",12.352,45126304.0,"4,5-dimethyl nonane",True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,12.985,1452262912.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,13.178,63372964.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,azulene,13.59,43446436.0,azulene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,13.59,43446436.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,13.975,44739900.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,14.553,33499222.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,14.718,36629000.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,caryophyllene,14.911,46303436.0,caryophyllene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,16.204,30386816.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,humulene,16.781,30738436.0,humulene,True
+except gossypii,Aphis Punicea,,False,65-9 mg,beta farnesen,18.597,163829344.0,beta farnesen,True
+except gossypii,Aphis Punicea,,False,65-9 mg,naphthalene-decahydro-4A-methyl-1-methylene-7(1-methylethenyl]4Ar-[4A-alpha-7-alpha-8A-beta…..,18.899,35380460.0,naphthalene-decahydro-4a-methyl-1-methylene-7(1-methylethenyl]4ar-[4a-alpha-7-alpha-8a-beta…..,True
+except gossypii,Aphis Punicea,,False,65-9 mg,aciphyllene/longifolene  C15H24,23.658,39852288.0,aciphyllene/longifolene c15h24,True
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,26.684,235576912.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,26.794,328682944.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,unknown,27.262,33077650.0,unknown,False
+except gossypii,Aphis Punicea,,False,65-9 mg,hexatriacontane,28.5,30414276.0,hexatriacontane,True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,"unknown-1-phenyl-1,2-peoandione",11.885,65480380.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,"4,5-dimethyl nonane",18.624,78454344.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,methyl salicylate,23.218,42715296.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,unknown- dodecane,23.686,22335580.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,carbolactam,26.712,149556928.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,unknown,33.149,26218802.0,unknown,False
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,beta farnesen,35.432,104015824.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,heptacosane,41.952,27591866.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,unknown,46.271,28731666.0,unknown,False
+aphids-gossypi,Aphis Gossypii,Hibiscus,True,39mg,unknown,50.479,23984616.0,unknown,False
+aphids-gossypi,Phis Gossypii,,False,53-3mg,"unknown-1-phenyl-1,2-peoandione",11.885,37007232.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Phis Gossypii,,False,53-3mg,"4,5-dimethyl nonane",18.624,91384424.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Phis Gossypii,,False,53-3mg,methyl salicylate,23.246,14575177.0,methyl salicylate,True
+aphids-gossypi,Phis Gossypii,,False,53-3mg,unknown- dodecane,23.658,33423886.0,unknown- dodecane,False
+aphids-gossypi,Phis Gossypii,,False,53-3mg,carbolactam,26.684,15883459.0,carbolactam,True
+aphids-gossypi,Phis Gossypii,,False,53-3mg,unknown,33.149,46686736.0,unknown,False
+aphids-gossypi,Phis Gossypii,,False,53-3mg,beta farnesen,35.432,33270582.0,beta farnesen,True
+aphids-gossypi,Phis Gossypii,,False,53-3mg,heptacosane,41.952,53821456.0,heptacosane,True
+aphids-gossypi,Phis Gossypii,,False,53-3mg,unknown,46.271,31725822.0,unknown,False
+aphids-gossypi,Phis Gossypii,,False,53-3mg,unknown,50.479,38774124.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,"unknown-1-phenyl-1,2-peoandione",11.94,57646340.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,"4,5-dimethyl nonane",18.652,70039336.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,methyl salicylate,23.273,15975211.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,unknown- dodecane,23.713,19251944.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,carbolactam,26.739,20547004.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,unknown,33.149,22092250.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,beta farnesen,35.46,75480904.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,heptacosane,41.952,26423886.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,unknown,46.27,20253010.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,65-8mg,unknown,50.479,21203914.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,"unknown-1-phenyl-1,2-peoandione",11.912,43278292.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,"4,5-dimethyl nonane",18.624,86884520.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,methyl salicylate,23.246,17194318.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,unknown- dodecane,23.686,86493184.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,carbolactam,26.629,68411144.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,unknown,33.149,17053646.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,beta farnesen,35.432,58127208.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,heptacosane,41.952,19863572.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,unknown,46.27,24709550.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,82-6mg,unknown,50.479,22383836.0,unknown,False
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,"unknown-1-phenyl-1,2-peoandione",10.427,2003160300.44,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,"4,5-dimethyl nonane",13.205,13511428095.84,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,methyl salicylate,13.865,3157148038.84,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,unknown- dodecane,13.948,3218365374.28,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,carbolactam,14.498,10719204888.480001,carbolactam,True
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,unknown,14.938,3409702424.1200004,unknown,False
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,beta farnesen,16.341,5430824080.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,heptacosane,17.249,2589967448.28,heptacosane,True
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,unknown,18.624,6274997968.72,unknown,False
+aphids-gossypi,Aphis Gossypii,Lemone,True,107-4mg,unknown,18.899,3210910211.2400002,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,130mg,"unknown-1-phenyl-1,2-peoandione",10.399,30308632.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,130mg,"4,5-dimethyl nonane",13.205,377108000.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,130mg,methyl salicylate,13.838,64452232.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,130mg,unknown- dodecane,13.948,64545952.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,130mg,carbolactam,14.471,296041824.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,130mg,unknown,14.938,479716128.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,130mg,beta farnesen,16.341,150294720.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,130mg,heptacosane,17.221,68087800.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,130mg,unknown,18.597,117378168.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,130mg,unknown,18.899,73841688.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,123mg,"unknown-1-phenyl-1,2-peoandione",10.482,908441134.72,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,123mg,"4,5-dimethyl nonane",13.26,10327948992.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,123mg,methyl salicylate,13.92,1999221093.76,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,123mg,unknown- dodecane,14.003,2025471996.48,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,123mg,carbolactam,14.526,6850530187.2,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,123mg,unknown,14.993,6306281880.96,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,123mg,beta farnesen,16.369,3158122313.6,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,123mg,heptacosane,17.276,1596822138.16,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,123mg,unknown,18.652,3502620922.56,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,123mg,unknown,18.954,1774022247.92,unknown,False
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,"unknown-1-phenyl-1,2-peoandione",14.966,31732740.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,"4,5-dimethyl nonane",35.459,70195864.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,methyl salicylate,37.578,21216328.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,unknown- dodecane,41.952,33701912.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,carbolactam,46.27,25561638.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,Vinca,True,93-3mg,unknown,50.479,27990706.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,"unknown-1-phenyl-1,2-peoandione",14.911,31701008.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,"4,5-dimethyl nonane",35.432,114586248.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,methyl salicylate,37.55,20075244.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,unknown- dodecane,41.924,38339864.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,carbolactam,46.271,29894504.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,96-8mg,unknown,50.48,29505576.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,"unknown-1-phenyl-1,2-peoandione",14.993,91070784.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,"4,5-dimethyl nonane",35.46,91350768.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,methyl salicylate,37.578,13601770.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,unknown- dodecane,41.979,19431772.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,carbolactam,46.298,19564882.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,95-6mg,unknown,50.479,19894830.0,unknown,False
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,"unknown-1-phenyl-1,2-peoandione",12.16,322360096.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,"4,5-dimethyl nonane",14.03,74750256.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,methyl salicylate,14.553,301964768.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,unknown- dodecane,16.066,71219712.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,carbolactam,16.396,154789520.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,unknown,17.276,68961944.0,unknown,False
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,beta farnesen,18.652,94345600.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,heptacosane,21.403,25092332.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,unknown,33.176,47856992.0,unknown,False
+aphids-gossypi,Aphis Gossypii,mint,True,62-2mg,unknown,35.46,160785184.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,"unknown-1-phenyl-1,2-peoandione",12.105,332801440.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,"4,5-dimethyl nonane",13.975,73775632.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,methyl salicylate,14.525,271108064.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,unknown- dodecane,16.038,78200048.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,carbolactam,16.369,170582912.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,unknown,17.249,74895920.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,beta farnesen,18.624,119363632.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,heptacosane,21.375,34490620.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,unknown,33.149,36133244.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,71-4mg,unknown,35.46,45315908.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,,"unknown-1-phenyl-1,2-peoandione",12.105,328022208.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,,"4,5-dimethyl nonane",13.975,76299560.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,,methyl salicylate,14.498,298786336.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,,unknown- dodecane,16.038,76981664.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,,carbolactam,16.369,170198720.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,,unknown,17.249,73232480.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,,beta farnesen,18.624,81315328.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,,heptacosane,21.375,31951254.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,,unknown,33.149,32830680.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,,unknown,35.46,33975896.0,unknown,False
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,"unknown-1-phenyl-1,2-peoandione",10.509,275532864.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,"4,5-dimethyl nonane",13.92,86268336.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,methyl salicylate,14.003,106197136.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,unknown- dodecane,14.553,424085408.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,carbolactam,14.993,81233488.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,unknown,16.066,113852688.0,unknown,False
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,beta farnesen,16.396,247305040.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,heptacosane,16.809,273699072.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,unknown,17.276,110902528.0,unknown,False
+aphids-gossypi,Aphis Gossypii,pepo,True,183-6mg,unknown,17.414,100486160.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,55mg,"unknown-1-phenyl-1,2-peoandione",10.399,1756041657.44,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,55mg,"4,5-dimethyl nonane",13.893,1112728726.3200002,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,55mg,methyl salicylate,13.975,1256679337.8400002,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,55mg,unknown- dodecane,14.498,3880522368.32,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,55mg,carbolactam,14.966,5573436234.88,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,55mg,unknown,16.039,1127469731.76,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,55mg,beta farnesen,16.369,2120004734.24,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,55mg,heptacosane,16.809,1377273804.48,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,55mg,unknown,17.276,950794771.7600001,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,55mg,unknown,17.386,939406792.8000001,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,76 mg,"unknown-1-phenyl-1,2-peoandione",10.399,584948865.3,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,76 mg,"4,5-dimethyl nonane",13.865,1155847897.3999999,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,76 mg,methyl salicylate,13.948,1275254348.8,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,76 mg,unknown- dodecane,14.47,5054434960.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,76 mg,carbolactam,14.938,2235023033.6,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,76 mg,unknown,16.011,1187111228.3999999,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,76 mg,beta farnesen,16.341,2487495702.7999997,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,76 mg,heptacosane,16.671,875130859.6,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,76 mg,unknown,17.221,1247371243.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,76 mg,unknown,17.331,885134792.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,"unknown-1-phenyl-1,2-peoandione",10.454,30825018.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,"4,5-dimethyl nonane",13.893,56459048.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,methyl salicylate,13.975,59740292.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,unknown- dodecane,14.498,255451472.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,carbolactam,14.938,38658204.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,unknown,16.011,59736732.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,beta farnesen,16.369,118696520.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,heptacosane,16.699,45755840.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,unknown,17.249,58163092.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-4mg,unknown,17.359,44813900.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,"unknown-1-phenyl-1,2-peoandione",10.482,2100360567.2,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,"4,5-dimethyl nonane",13.92,1093757811.6000001,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,methyl salicylate,14.003,1184244284.16,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,unknown- dodecane,14.525,4178145792.64,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,carbolactam,14.993,5515965280.64,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,unknown,16.038,1095636772.64,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,beta farnesen,16.369,2397360394.56,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,heptacosane,16.809,1516670623.68,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,unknown,17.276,1141139320.8,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,137-3mg,unknown,17.386,1078193112.08,unknown,False
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,"unknown-1-phenyl-1,2-peoandione",10.509,51424948.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,"4,5-dimethyl nonane",13.288,501642432.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,methyl salicylate,13.92,75645648.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,unknown- dodecane,14.003,81399432.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,carbolactam,14.553,377827328.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,unknown,14.993,340923520.0,unknown,False
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,beta farnesen,16.066,94066048.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,heptacosane,16.396,215404064.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,unknown,17.276,90832672.0,unknown,False
+aphids-gossypi,Aphis Gossypii,Alaf,True,102-1mg,unknown,17.386,68367296.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,"unknown-1-phenyl-1,2-peoandione",10.509,94512296.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,"4,5-dimethyl nonane",13.26,431942176.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,methyl salicylate,13.92,81311016.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,unknown- dodecane,14.003,97055400.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,carbolactam,14.553,313095616.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,unknown,14.993,82877272.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,beta farnesen,16.066,90460848.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,heptacosane,16.396,182665152.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,unknown,17.276,83705984.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,32-2mg,unknown,17.386,73682432.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,39mg,"unknown-1-phenyl-1,2-peoandione",10.482,80346432.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,39mg,"4,5-dimethyl nonane",13.26,421880704.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,39mg,methyl salicylate,13.893,71131632.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,39mg,unknown- dodecane,14.003,74850648.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,39mg,carbolactam,14.526,318583456.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,39mg,unknown,14.966,99438456.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,39mg,beta farnesen,16.039,80288008.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,39mg,heptacosane,16.369,171653072.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,39mg,unknown,17.249,71976264.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,39mg,unknown,17.386,57137636.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,"unknown-1-phenyl-1,2-peoandione",10.399,70463784.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,"4,5-dimethyl nonane",13.205,186601392.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,methyl salicylate,13.948,44175864.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,unknown- dodecane,14.003,20500976.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,carbolactam,14.47,159159728.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,unknown,14.911,49996752.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,beta farnesen,16.011,40817172.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,heptacosane,16.341,80770704.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,unknown,17.221,45358152.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,44-2mg,unknown,17.331,35972204.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,"unknown-1-phenyl-1,2-peoandione",10.399,33149660.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,"4,5-dimethyl nonane",13.205,496322848.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,methyl salicylate,13.92,80555632.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,unknown- dodecane,14.003,31363216.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,carbolactam,14.47,391934752.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,unknown,14.911,242432032.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,beta farnesen,15.983,92533520.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,heptacosane,16.341,181578272.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,unknown,17.221,92701672.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-4mg,unknown,17.331,67991048.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,"unknown-1-phenyl-1,2-peoandione",10.509,112036872.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,"4,5-dimethyl nonane",13.288,520549088.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,methyl salicylate,13.92,88641408.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,unknown- dodecane,14.003,92932760.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,carbolactam,14.553,347597888.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,unknown,14.993,253906320.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,beta farnesen,16.066,91295976.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,heptacosane,16.396,186031344.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,unknown,17.276,82638304.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,45-5mg,unknown,17.386,60661092.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,"unknown-1-phenyl-1,2-peoandione",10.509,32056452.0,"unknown-1-phenyl-1,2-peoandione",False
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,"4,5-dimethyl nonane",13.288,338794880.0,"4,5-dimethyl nonane",True
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,methyl salicylate,13.92,75294696.0,methyl salicylate,True
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,unknown- dodecane,14.003,77345504.0,unknown- dodecane,False
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,carbolactam,14.553,285959840.0,carbolactam,True
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,unknown,14.993,201387952.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,beta farnesen,16.066,79688928.0,beta farnesen,True
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,heptacosane,16.396,179989168.0,heptacosane,True
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,unknown,17.276,78577264.0,unknown,False
+aphids-gossypi,Aphis Gossypii,,True,72-6mg,unknown,17.386,57016536.0,unknown,False
