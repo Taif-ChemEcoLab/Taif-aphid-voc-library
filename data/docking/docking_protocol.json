@@ -1,0 +1,54 @@
+{
+  "protocol_version": "phase5d2_protocol_v1.0",
+  "frozen_utc": "2026-10-03T23:22:09.082232+00:00",
+  "development_system": "1DQE/bombykol",
+  "development_variants_tested": [
+    "DEV_V1_NATIVE_BOX6",
+    "DEV_V2_NATIVE_BOX4"
+  ],
+  "development_variant": "DEV_V1_NATIVE_BOX6",
+  "selection_reason": "V1 retained because it was the only development variant with a <=2 A top-10 pose (1/5 seeds versus 0/5); neither variant achieved rank-1 recovery",
+  "receptor_preparation": {
+    "chain_specific": true,
+    "waters": "removed",
+    "heteroatoms": "removed",
+    "hydrogens": "PDBFixer pH 7.0",
+    "charges": "Gasteiger",
+    "pdbqt": "Meeko 0.7.1"
+  },
+  "ligand_preparation": {
+    "source": "RCSB CCD chemical identity",
+    "native_coordinates_as_start": false,
+    "conformer": "ETKDGv3 seed 20261004",
+    "optimization": "MMFF94s else UFF",
+    "charges": "Gasteiger",
+    "pdbqt": "Meeko 0.7.1"
+  },
+  "pocket_rule": "native ligand heavy-atom min/max bounds plus 6 A on every face; minimum 22 A per dimension",
+  "vina": {
+    "version": "1.2.7",
+    "scoring": "vina",
+    "exhaustiveness": 32,
+    "num_modes": 20,
+    "energy_range": 4,
+    "cpu_per_run": 1,
+    "seeds": [
+      42,
+      2026,
+      104729,
+      271828,
+      314159
+    ]
+  },
+  "pose_retention": "top 10 poses per seed",
+  "rmsd": {
+    "method": "RDKit CalcRMS in fixed receptor coordinate frame",
+    "symmetry": "all chemically valid substructure automorphisms",
+    "heavy_atoms": true,
+    "threshold_angstrom": 2.0
+  },
+  "ranking": "Vina output rank; rank-1 and best-of-10 reported separately",
+  "heldout_tuning_prohibited": true,
+  "production_docking_executed": false,
+  "protocol_sha256": "0a80027f93fd7450d942ab98ce9fba1a70c743996d13e18887fd45725fd9fc19"
+}
