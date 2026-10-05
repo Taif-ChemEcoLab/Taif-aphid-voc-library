@@ -1,27 +1,45 @@
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
 
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-
-.DS_Store
-Thumbs.db
-
 *.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-venv/
 .venv/
+.venv-*/
+venv/
 env/
 ENV/
 
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
 
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
+*.log
 
-.streamlit/secrets.toml
+# Keep raw/private research data and superseded curation material out of GitHub.
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.parquet
+data/*.pkl
+curation_drafts/
+raw_data/
+private_data/
+
+# Local-only migration, verification, and internal scientific workflow records.
+migration/
+artifacts/
+phase5d1_outputs/
+phase5d2_outputs/
+phase5d3_outputs/
+phase5d3a_outputs/
+phase5d3b_outputs/

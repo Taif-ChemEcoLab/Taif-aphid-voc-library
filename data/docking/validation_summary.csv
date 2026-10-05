@@ -1,0 +1,4 @@
+﻿validation_system,PDB_ID,control_type,seeds_attempted,seeds_completed,rank1_success_count,rank1_success_fraction,best_of_10_success_count,best_of_10_success_fraction,median_rank1_RMSD,minimum_rank1_RMSD,median_best_of_10_RMSD,minimum_RMSD,median_rank1_vina_score,rank1_score_min,rank1_score_max,score_range,technical_failures,final_interpretation
+1DQE,1DQE,DEVELOPMENT,5,5,0,0/5,1,1/5,5.2674,5.1856,2.3165,1.7936,-6.87,-7.103,-6.774,0.329,0,DEVELOPMENT: weak sampling and failed rank-1 recovery; protocol selection only
+2WC6,2WC6,HELDOUT,5,5,1,1/5,5,5/5,3.595,1.5461,1.3438,1.0411,-7.096,-7.293,-6.994,0.299,0,HELD-OUT: sampling passed 5/5; ranking weak at 1/5 rank-1
+3N7H,3N7H,HELDOUT,5,5,5,5/5,5,5/5,0.6453,0.5484,0.6453,0.5484,-6.962,-7.01,-6.933,0.077,0,HELD-OUT: sampling and rank-1 recovery passed 5/5

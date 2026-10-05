@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use VOC·BIO Library, please cite this software and the primary source publication identified in the documentation."
+title: "VOC·BIO Library"
+type: software
+version: "1.0"
+authors:
+  - family-names: "Alsufyani"
+    given-names: "Taghreed"
+  - family-names: "Hussain"
+    given-names: "Taufia"
+  - family-names: "Alotaibi"
+    given-names: "Noura J."
+repository-code: "https://github.com/Taif-ChemEcoLab/Taif-aphid-voc-library"
+license: MIT
+abstract: "A provenance-aware Streamlit application for published aphid headspace GC-MS Bio-feature evidence, curated candidate chemical interpretations, defensible molecular structures, and frozen exploratory OBP docking results."

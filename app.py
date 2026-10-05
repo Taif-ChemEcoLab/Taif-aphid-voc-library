@@ -2,7 +2,13 @@
 
 import streamlit as st
 import os
+import sys
+from pathlib import Path
 from dotenv import load_dotenv
+
+PROJECT_ROOT = Path(__file__).resolve().parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 load_dotenv()   # reads .env locally; Streamlit Cloud uses Secrets Manager instead
 
@@ -71,20 +77,22 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 with st.sidebar:
     st.markdown("### 🌿 VOC·BIO Library")
     st.markdown("---")
+    route_names = [
+        "Dashboard", "Published GC-MS Features", "Chemical Structure Explorer",
+        "Biological & Sample Contexts", "Published Feature Statistics", "Evidence Explorer",
+        "Docking Predictions", "Feature-Context Network", "Structural Similarity Explorer",
+        "References / Data Sources", "Research Team Assistant",
+    ]
+    query_page = st.query_params.get("page")
+    if query_page in route_names and "main_navigation" not in st.session_state:
+        st.session_state["main_navigation"] = query_page
+    if "route_override" in st.session_state:
+        st.session_state["main_navigation"] = st.session_state.pop("route_override")
     page = st.radio(
         "Navigate",
-        [
-            "Dashboard",
-            "VOC Library",
-            "Molecule Explorer",
-            "Insect–Plant Database",
-            "Bioassay Results",
-            "Receptor Docking & Evidence",
-            "Interaction Network",
-            "Structural Similarity Explorer",
-            "Ask the Research Team",
-        ],
+        route_names,
         label_visibility="collapsed",
+        key="main_navigation",
     )
     st.markdown("---")
     st.markdown("""
@@ -96,14 +104,16 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
 
-if   page == "Dashboard":             from modules.dashboard         import render
-elif page == "VOC Library":           from modules.voc_library        import render
-elif page == "Molecule Explorer":     from modules.molecule_explorer  import render
-elif page == "Insect–Plant Database": from modules.insect_plant       import render
-elif page == "Bioassay Results":      from modules.bioassay           import render
-elif page == "Receptor Docking & Evidence": from modules.receptor_docking import render
-elif page == "Interaction Network":   from modules.network            import render
-elif page == "Structural Similarity Explorer": from modules.similarity import render
-elif page == "Ask the Research Team": from modules.agent_team_         import render
+if   page == "Dashboard":                       from modules.phase5c3_dashboard      import render
+elif page == "Published GC-MS Features":        from modules.phase5c3_feature_library import render
+elif page == "Chemical Structure Explorer":     from modules.phase5c3_molecule_explorer import render
+elif page == "Biological & Sample Contexts":    from modules.phase5c3_contexts       import render
+elif page == "Published Feature Statistics":    from modules.v1_statistics          import render
+elif page == "Evidence Explorer":                from modules.phase5c3_evidence       import render
+elif page == "Docking Predictions":              from modules.v1_docking_explorer    import render
+elif page == "Feature-Context Network":         from modules.v1_network             import render
+elif page == "Structural Similarity Explorer":  from modules.phase5c3_similarity    import render
+elif page == "References / Data Sources":       from modules.phase5c3_references    import render
+elif page == "Research Team Assistant":         from modules.v1_agent_guide         import render
 
 render()

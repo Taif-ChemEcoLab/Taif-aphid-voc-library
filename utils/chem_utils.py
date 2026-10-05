@@ -14,11 +14,19 @@ Why this approach:
 """
 
 import urllib.parse
+from functools import lru_cache
+
+MAX_SMILES_LENGTH = 512
+
+
+def validate_smiles_input(smiles: str) -> bool:
+    """Bound custom structure input before RDKit or URL processing."""
+    return isinstance(smiles, str) and 0 < len(smiles) <= MAX_SMILES_LENGTH and "\x00" not in smiles
 
 # ── RDKit — imported only for descriptors & fingerprints, NOT for drawing ────
 try:
     from rdkit import Chem
-    from rdkit.Chem import Descriptors, rdMolDescriptors, AllChem, DataStructs
+    from rdkit.Chem import Descriptors, rdMolDescriptors, DataStructs, rdFingerprintGenerator
     RDKIT_AVAILABLE = True
 except ImportError:
     RDKIT_AVAILABLE = False
@@ -49,7 +57,7 @@ def get_structure_image_url(pubchem_cid: int = None,
             f"{int(pubchem_cid)}/PNG"
             f"?image_size={width}x{height}"
         )
-    elif smiles:
+    elif smiles and validate_smiles_input(smiles):
         # SMILES-based image — fallback
         encoded = urllib.parse.quote(smiles, safe="")
         return (
@@ -72,6 +80,8 @@ def get_structure_image_urls_batch(cids: list, width: int = 300, height: int = 2
 
 def mol_from_smiles(smiles: str):
     if not RDKIT_AVAILABLE:
+        return None
+    if not validate_smiles_input(smiles):
         return None
     try:
         return Chem.MolFromSmiles(smiles)
@@ -148,11 +158,20 @@ def tanimoto_similarity(smiles1: str, smiles2: str, radius: int = 2) -> float:
     if mol1 is None or mol2 is None:
         return 0.0
     try:
-        fp1 = AllChem.GetMorganFingerprintAsBitVect(mol1, radius, nBits=2048)
-        fp2 = AllChem.GetMorganFingerprintAsBitVect(mol2, radius, nBits=2048)
+        generator = _morgan_generator(radius)
+        fp1 = generator.GetFingerprint(mol1)
+        fp2 = generator.GetFingerprint(mol2)
         return round(DataStructs.TanimotoSimilarity(fp1, fp2), 4)
     except Exception:
         return 0.0
+
+
+@lru_cache(maxsize=8)
+def _morgan_generator(radius: int):
+    """Cache immutable RDKit fingerprint generators by radius."""
+    if not RDKIT_AVAILABLE:
+        return None
+    return rdFingerprintGenerator.GetMorganGenerator(radius=int(radius), fpSize=2048)
 
 
 def similarity_matrix(smiles_list: list, names: list):
